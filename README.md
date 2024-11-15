@@ -5,3 +5,7 @@
 ## First One
 
 for Kubernetes~~~
+
+### changelog
+
+- v3: specific trafic out/in promql and grafana config.(2024/11/16)
